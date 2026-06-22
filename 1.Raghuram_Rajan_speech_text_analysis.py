@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Project: RBI Governor Speech Texts - Sentiment Analysis
+# ## Project: RBI Governor Speech Texts - Sentiment Analysis in python in rbi microsoft 
 # 
 # ### Introduction
 # RBI Governor Speech Texts Sentiment Analysis is the project on web scraping, text pre-processing and normalization, data visualization and sentiment analysis using data provided by [RBI](https://www.rbi.org.in/Scripts/BS_ViewSpeeches.aspx). Used various python tools and libraries to perform sentiment analysis over a speech texts by RBI governor.
